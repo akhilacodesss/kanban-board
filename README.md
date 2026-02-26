@@ -24,4 +24,4 @@ A React-based Kanban task management app that allows users to create, organize, 
 ## 🌐 Deployment
 
 Deployed via Netlify.
-url: 
+url: https://kanban-boarrdd.netlify.app/
